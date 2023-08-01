@@ -16,5 +16,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=itsananyaa&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif)https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif)https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
