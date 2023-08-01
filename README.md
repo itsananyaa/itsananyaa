@@ -1,5 +1,8 @@
-[![MasterHead](https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif)]
-<h1 align="center">Hi 👋, I'm Ananya</h1>
+<p align="center">
+  <img src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif" width=100%>
+</p>
+
+<h1 align="center"> Hi <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="50px" height="50px" style="max-width:100%;">  I'm <a> Ananya </a>
 <h3 align="center">A passionate coder</h3>
 
 ## 💫 About Me:
