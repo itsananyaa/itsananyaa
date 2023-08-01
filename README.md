@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ananya</h1>
 <h3 align="center">A passionate coder</h3>
 
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif">
+<p align="centre"><img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsananyaa" alt="itsananyaa" /></a> </p>
 
