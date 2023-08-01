@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ananya!
+### Hi there 🐱‍👤 I'm Ananya!
 # 💫 About Me:
 🐱‍👤I'm currently working on exploring Data Science and AI/ML.<br>🏃‍♀️Keeping up with everyday trends.<br>✨I'm currently learning new languages.<br>👏I am excited to meet new people during the upcoming journey.
 
