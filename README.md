@@ -16,7 +16,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=itsananyaa&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
