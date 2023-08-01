@@ -1,5 +1,5 @@
 ### Hi there 🐱‍👤 I'm Ananya!
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif)https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif">
+
 # 💫 About Me:
 🐱‍👤I'm currently working on exploring Data Science and AI/ML.<br>🏃‍♀️Keeping up with everyday trends.<br>✨I'm currently learning new languages.<br>👏I am excited to meet new people during the upcoming journey.
 
