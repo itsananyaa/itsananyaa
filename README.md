@@ -1,3 +1,4 @@
+[![An image of @itsananyaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itsananyaa)](https://holopin.io/@itsananyaa)
 <p align="center">
   <img src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif" width=100%>
 </p>
