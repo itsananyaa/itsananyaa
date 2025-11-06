@@ -1,8 +1,3 @@
-[![An image of @itsananyaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itsananyaa)](https://holopin.io/@itsananyaa)
-<p align="center">
-  <img src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif" width=100%>
-</p>
-
 <h1 align="center"> Hi <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="50px" height="50px" style="max-width:100%;">  I'm <a> Ananya </a>
 <h3 align="center">A passionate coder</h3>
 
@@ -23,4 +18,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=itsananyaa&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-
+[![An image of @itsananyaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itsananyaa)](https://holopin.io/@itsananyaa)
+<p align="center">
+  <img src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif" width=100%>
+</p>
